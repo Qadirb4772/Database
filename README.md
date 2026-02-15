@@ -28,4 +28,4 @@ data insertion, and SELECT queries for learning purposes.
 ## Learning Notes
 
 - This project is created for SQL learning purposes.
-- Author: YOUR NAME
+- Author: Qadir Bakhsh
