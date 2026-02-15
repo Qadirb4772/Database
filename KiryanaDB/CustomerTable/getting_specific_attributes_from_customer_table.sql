@@ -1,0 +1,1 @@
+select customer_name, address from KiryanaDB.Customer;
